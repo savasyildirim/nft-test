@@ -7,12 +7,12 @@
     "attributes": [
         {"trait_type": "Position", "value": "GK"},
         {"trait_type": "Name", "value": "MUSLERA"}, 
-        {"trait_type": "DIV", "value": "99"},
-        {"trait_type": "HAN", "value": "99"},
-        {"trait_type": "KIC", "value": "99"},
-        {"trait_type": "REF", "value": "99"},
-        {"trait_type": "SPE", "value": "99"},
-        {"trait_type": "POS", "value": "99"}
+        {"trait_type": "DIV", "value": "88"},
+        {"trait_type": "HAN", "value": "88"},
+        {"trait_type": "KIC", "value": "88"},
+        {"trait_type": "REF", "value": "88"},
+        {"trait_type": "SPE", "value": "88"},
+        {"trait_type": "POS", "value": "88"}
     ],
     "properties": {
         "creators": [{"address": "6u7VuQxYyJwEoB2gsUjS38eZkXe4QjqZLDeXxUqeuRsE", "share": 100}],
