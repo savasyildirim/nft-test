@@ -1,7 +1,7 @@
 {
     "name": "My Test NFT #0001",
     "symbol": "GS",
-    "description": "Updated desc!",
+    "description": "Updated desccription",
     "seller_fee_basis_points": 500,
     "image": "https://raw.githubusercontent.com/savasyildirim/nft-test/master/0.png",
     "attributes": [
@@ -18,5 +18,5 @@
         "creators": [{"address": "6u7VuQxYyJwEoB2gsUjS38eZkXe4QjqZLDeXxUqeuRsE", "share": 100}],
         "files": [{"uri": "https://raw.githubusercontent.com/savasyildirim/nft-test/master/0.png", "type": "image/png"}]
     },
-    "collection": {"name": "Galatasaray SK Players", "family": "GK Players"}
+    "collection": {"name": "Galatasaray SK Players", "family": "Metaverse Leagues Soccer Players"}
 }
