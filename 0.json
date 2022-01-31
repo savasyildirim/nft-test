@@ -1,0 +1,22 @@
+{
+    "name": "My Test NFT #0001",
+    "symbol": "GS",
+    "description": "Updated desc!",
+    "seller_fee_basis_points": 500,
+    "image": "0.png",
+    "attributes": [
+        {"trait_type": "Position", "value": "GK"},
+        {"trait_type": "Name", "value": "FERNANDO MUSLERA"}, 
+        {"trait_type": "DIV", "value": "84"},
+        {"trait_type": "HAN", "value": "76"},
+        {"trait_type": "KIC", "value": "75"},
+        {"trait_type": "REF", "value": "83"},
+        {"trait_type": "SPE", "value": "62"},
+        {"trait_type": "POS", "value": "82"}
+    ],
+    "properties": {
+        "creators": [{"address": "6u7VuQxYyJwEoB2gsUjS38eZkXe4QjqZLDeXxUqeuRsE", "share": 100}],
+        "files": [{"uri": "0.png", "type": "image/png"}]
+    },
+    "collection": {"name": "Galatasaray SK Players", "family": "Metaverse Leagues Soccer Players"}
+}
