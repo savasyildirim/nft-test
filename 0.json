@@ -6,7 +6,7 @@
     "image": "https://raw.githubusercontent.com/savasyildirim/nft-test/master/0.png",
     "attributes": [
         {"trait_type": "Position", "value": "GK"},
-        {"trait_type": "Name", "value": "FERNANDO MUSLERA"}, 
+        {"trait_type": "Name", "value": "MUSLERA"}, 
         {"trait_type": "DIV", "value": "99"},
         {"trait_type": "HAN", "value": "99"},
         {"trait_type": "KIC", "value": "99"},
