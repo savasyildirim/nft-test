@@ -1,18 +1,13 @@
 {
-    "name": "My Test NFT #0001",
+    "name": "GitHub NFT #01",
     "symbol": "GS",
-    "description": "Updated desccription",
+    "description": "Bu bilgiler GitHubdan geliyor",
     "seller_fee_basis_points": 500,
     "image": "https://raw.githubusercontent.com/savasyildirim/nft-test/master/0.png",
     "attributes": [
-        {"trait_type": "Position", "value": "GK"},
-        {"trait_type": "Name", "value": "MUSLERA"}, 
-        {"trait_type": "DIV", "value": "88"},
-        {"trait_type": "HAN", "value": "88"},
-        {"trait_type": "KIC", "value": "88"},
-        {"trait_type": "REF", "value": "88"},
-        {"trait_type": "SPE", "value": "88"},
-        {"trait_type": "POS", "value": "88"}
+        {"trait_type": "Storage", "value": "GitHub"},
+        {"trait_type": "Repo", "value": "nft-test"}, 
+        {"trait_type": "Branch", "value": "master"}
     ],
     "properties": {
         "creators": [{"address": "6u7VuQxYyJwEoB2gsUjS38eZkXe4QjqZLDeXxUqeuRsE", "share": 100}],
